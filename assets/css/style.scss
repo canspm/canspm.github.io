@@ -1,0 +1,53 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* --- Canadian red palette overrides (was blue) --- */
+body { background: #f6f2ee; }
+
+h1, h2, h3, h4, h5, h6 { color: #1a1a1a; }
+
+#header_wrap,
+header {
+  background: #a60c2b;
+  background: linear-gradient(145deg, #c8102e, #8b0000);
+}
+
+header h1 a,
+header p { color: #ffffff; }
+
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0 0;
+  display: flex;
+  gap: 1.5em;
+}
+
+.site-nav a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.site-nav a:hover {
+  border-bottom: 2px solid #ffffff;
+}
+
+a {
+  color: #c8102e;
+  text-decoration: none;
+}
+a:hover { color: #8b0000; }
+
+.pagination a,
+.pagination a:hover {
+  color: #c8102e;
+  border: 1px solid #c8102e;
+}
+
+#banner {
+  background: linear-gradient(120deg, rgba(200,16,46,0.9), rgba(139,0,0,0.9));
+}
