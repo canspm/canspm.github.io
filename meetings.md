@@ -29,11 +29,11 @@ The Society's business meeting, the Annual General Meeting (AGM), is held in con
 
 ## Past Meetings
 
-- **2026** — May 6 — McMaster University, Toronto, ON — [Conference details](https://digitalsocietylab.org/maplemeth2026)
-- **2025** — June 28–29 — Simon Fraser University, Vancouver, BC — [Program (PDF)](https://www.sfu.ca/content/dam/sfu/people/mpickup/MapleMeth/MapleMeth_IV_Program.pdf)
-- **2024** — May 3–4 — Western University, London, ON — [Program](https://ccqss.uwo.ca/events/index.html)
-- **2023** — June 1–3 — Western University, London, ON — [Program](https://ccqss.uwo.ca/events/index.html)
-- **2022** — _(Dates)_ — Western University, London, ON
+- **2026** — May 6 — McMaster University, Toronto, ON — [Program (PDF)]({{ "/programs/maplemeth-2026-program.pdf" | relative_url }})
+- **2025** — June 28–29 — Simon Fraser University, Vancouver, BC — [Program (PDF)]({{ "/programs/maplemeth-2025-program.pdf" | relative_url }})
+- **2024** — May 3–4 — Western University, London, ON — [Program (PDF)]({{ "/programs/maplemeth-2024-program.pdf" | relative_url }})
+- **2023** — June 1–3 — Western University, London, ON — [Program (PDF)]({{ "/programs/maplemeth-2023-program.pdf" | relative_url }})
+- **2022** — May 27–28 — Western University, London, ON, held jointly with the C-Dem workshop on survey design — [Program (PDF)]({{ "/programs/maplemeth-2022-program.pdf" | relative_url }})
 
 ---
 
@@ -57,8 +57,8 @@ L'assemblée générale annuelle (AGA), la réunion d'affaires des membres, se t
 
 ### Rencontres précédentes
 
-- **2026** — 6 mai — Université McMaster, Toronto (Ont.) — [Détails](https://digitalsocietylab.org/maplemeth2026)
-- **2025** — 28 et 29 juin — Université Simon Fraser, Vancouver (C.-B.) — [Programme (PDF)](https://www.sfu.ca/content/dam/sfu/people/mpickup/MapleMeth/MapleMeth_IV_Program.pdf)
-- **2024** — 3 et 4 mai — Université Western, London (Ont.) — [Programme](https://ccqss.uwo.ca/events/index.html)
-- **2023** — 1er au 3 juin — Université Western, London (Ont.) — [Programme](https://ccqss.uwo.ca/events/index.html)
-- **2022** — _(Dates)_ — Université Western, London (Ont.)
+- **2026** — 6 mai — Université McMaster, Toronto (Ont.) — [Programme (PDF)]({{ "/programs/maplemeth-2026-program.pdf" | relative_url }})
+- **2025** — 28 et 29 juin — Université Simon Fraser, Vancouver (C.-B.) — [Programme (PDF)]({{ "/programs/maplemeth-2025-program.pdf" | relative_url }})
+- **2024** — 3 et 4 mai — Université Western, London (Ont.) — [Programme (PDF)]({{ "/programs/maplemeth-2024-program.pdf" | relative_url }})
+- **2023** — 1er au 3 juin — Université Western, London (Ont.) — [Programme (PDF)]({{ "/programs/maplemeth-2023-program.pdf" | relative_url }})
+- **2022** — 27 et 28 mai — Université Western, London (Ont.), tenue conjointement avec l'atelier C-Dem sur la conception d'enquêtes — [Programme (PDF)]({{ "/programs/maplemeth-2022-program.pdf" | relative_url }})
