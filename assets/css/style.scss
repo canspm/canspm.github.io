@@ -3,29 +3,29 @@
 
 @import "{{ site.theme }}";
 
-/* --- Logo palette (matches the reversed/white logos) --- */
+/* --- Logo palette --- */
 $red:   #D52B1E;
 $navy:  #1B1F2A;
-$warm:  #F6F4F0;
+$page:  #FFFFFF;  /* matches the logo PNG background */
 $white: #FFFFFF;
 $logo-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-body { background: $warm; }
+body { background: $page; }
 
 h1, h2, h3, h4, h5, h6 {
   color: $navy;
   font-family: $logo-font;
 }
 
-/* Left column: navy panel holding the logo and navigation */
+/* Left column: same background as the page, so the logo blends in */
 header {
-  background: $navy;
+  background: $page;
   padding: 24px 22px;
   box-sizing: border-box;
 }
 
 header h1 a,
-header p { color: $white; }
+header p { color: $navy; }
 
 .site-logo img {
   display: block;
@@ -42,7 +42,7 @@ header p { color: $white; }
 }
 
 .site-nav a {
-  color: $white;
+  color: $navy;
   font-family: $logo-font;
   font-weight: bold;
   text-decoration: none;
@@ -50,7 +50,7 @@ header p { color: $white; }
 }
 
 .site-nav a:hover {
-  color: $white;
+  color: $red;
   border-bottom: 2px solid $red;
 }
 
