@@ -13,9 +13,14 @@
   </head>
   <body>
     <div class="wrapper">
+      {% assign logo = page.logo | default: site.logo %}
       <header>
+        {% if logo %}
+        <a class="site-logo" href="{{ "/" | relative_url }}"><img src="{{ logo | relative_url }}" alt="{{ page.logo_alt | default: site.description }}"></a>
+        {% else %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
 
         <nav class="site-nav">
           <ul>
