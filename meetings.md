@@ -2,6 +2,8 @@
 layout: default
 title: Meetings
 permalink: /meetings/
+logo: /assets/images/maplemeth-logo-en-white.png
+logo_alt: "MapleMeth: Canadian Society for Political Methodology"
 ---
 
 # Meetings

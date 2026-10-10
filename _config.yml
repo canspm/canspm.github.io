@@ -1,5 +1,6 @@
 title: CSPM
 description: "Canadian Society for Political Methodology"
+logo: /assets/images/cspm-logo-en-white.png
 theme: null
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

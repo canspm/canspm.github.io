@@ -3,51 +3,73 @@
 
 @import "{{ site.theme }}";
 
-/* --- Canadian red palette overrides (was blue) --- */
-body { background: #fafafa; }
+/* --- Logo palette (matches the reversed/white logos) --- */
+$red:   #D52B1E;
+$navy:  #1B1F2A;
+$warm:  #F6F4F0;
+$white: #FFFFFF;
+$logo-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-h1, h2, h3, h4, h5, h6 { color: #F6F4F0; }
+body { background: $warm; }
 
-#header_wrap,
+h1, h2, h3, h4, h5, h6 {
+  color: $navy;
+  font-family: $logo-font;
+}
+
+/* Left column: navy panel holding the logo and navigation */
 header {
-  background: #a60c2b;
-  background: linear-gradient(145deg, #c8102e, #8b0000);
+  background: $navy;
+  padding: 24px 22px;
+  box-sizing: border-box;
 }
 
 header h1 a,
-header p { color: #ffffff; }
+header p { color: $white; }
+
+.site-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 
 .site-nav ul {
   list-style: none;
   padding: 0;
-  margin: 1em 0 0 0;
+  margin: 1.5em 0 0 0;
   display: flex;
   gap: 1.5em;
 }
 
 .site-nav a {
-  color: #ffffff;
+  color: $white;
+  font-family: $logo-font;
   font-weight: bold;
   text-decoration: none;
   border-bottom: 2px solid transparent;
 }
 
 .site-nav a:hover {
-  border-bottom: 2px solid #ffffff;
+  color: $white;
+  border-bottom: 2px solid $red;
 }
 
 a {
-  color: #c8102e;
+  color: $red;
   text-decoration: none;
 }
-a:hover { color: #8b0000; }
+a:hover { color: darken($red, 15%); }
 
 .pagination a,
 .pagination a:hover {
-  color: #c8102e;
-  border: 1px solid #c8102e;
+  color: $red;
+  border: 1px solid $red;
 }
 
-#banner {
-  background: linear-gradient(120deg, rgba(200,16,46,0.9), rgba(139,0,0,0.9));
+/* Narrow screens: the theme moves the header to the top and pushes
+   lists to the right; keep the navy panel full width with the nav below the logo. */
+@media print, screen and (max-width: 960px) {
+  header { padding: 20px; }
+  header ul { position: static; }
+  .site-logo img { max-width: 260px; }
 }
