@@ -2,9 +2,10 @@
 layout: default
 title: Meetings
 permalink: /meetings/
-logo: /assets/images/maplemeth-logo-en-white.png
-logo_alt: "MapleMeth: Canadian Society for Political Methodology"
+hide_logo: true
 ---
+
+![MapleMeth: Canadian Society for Political Methodology]({{ "/assets/images/maplemeth-logo-en-white.png" | relative_url }}){: .page-banner}
 
 # Meetings
 
