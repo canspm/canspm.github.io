@@ -65,7 +65,8 @@ La Société a pour mission de :
 - faire progresser le développement et l'application des méthodologies de recherche quantitatives, qualitatives et mixtes en science politique, au Canada et à l'échelle internationale;
 - favoriser la collaboration, le réseautage et le mentorat entre professeurs, chercheurs et étudiants des cycles supérieurs;
 - promouvoir et élargir la formation en méthodologie politique partout au Canada;
-- organiser [MapleMeth](meetings/), notre rencontre scientifique annuelle, qui met en valeur la recherche de pointe et l'innovation pédagogique.
+- organiser [MapleMeth](meetings/), notre rencontre scientifique annuelle, qui met en valeur la recherche de pointe et l'innovation pédagogique;
+- souligner les contributions à la méthodologie politique au Canada.
 
 ### Adhésion
 
@@ -76,8 +77,6 @@ L'adhésion est ouverte à toute personne du corps professoral, de la recherche 
 
 Les membres en règle votent lors de l'élection des dirigeants et sur toutes les questions soumises à l'assemblée générale annuelle.
 
-_(Ajouter les cotisations, la façon d'adhérer et le lien vers la liste de diffusion.)_
-
 ### Direction
 
 La Société est dirigée par un comité exécutif et un conseil d'administration.
@@ -87,24 +86,17 @@ La Société est dirigée par un comité exécutif et un conseil d'administratio
 - Présidence : [Matthew Lebo](https://politicalscience.uwo.ca/people/faculty/full-time-faculty/matt-lebo.html), professeur, Université Western
 - Vice-présidence (présidence désignée) : [Mark Pickup](https://www.sfu.ca/people/mpickup.html), professeur, Université Simon Fraser
 - Secrétariat-trésorerie : [Michelle L. Dion](https://michelledion.ca), professeure, Université McMaster
-- Représentation étudiante (cycles supérieurs) : Lydia Laflamme, doctorante, Université de la Colombie-Britannique
+- Représentation étudiante (cycles supérieurs) : [Lydia Laflamme](https://politics.ubc.ca/profile/lydia-laflamme/), doctorante, Université de la Colombie-Britannique
 
 **Conseil d'administration**
 
 Outre les membres du comité exécutif, le conseil compte sept membres en règle qui appuient le comité exécutif dans ses fonctions.
 
-- Vincent Arel-Bundock, professeur, Université de Montréal
-- David Armstrong, professeur, Université Western
-- Sophie Borwein, professeure adjointe, Université de la Colombie-Britannique
-- Michelle L. Dion, professeure, Université McMaster
-- Vince Hopkins, professeur adjoint, Université de la Colombie-Britannique
-- Lydia Laflamme, doctorante, Université de la Colombie-Britannique
-- Mark Pickup, professeur, Université Simon Fraser
-- Eline de Rooij, professeure, Université Simon Fraser
-- Sule Yaylaci, professeure adjointe, Université du Nouveau-Brunswick
-
-### Nous joindre
-
-_(Ajouter l'adresse courriel.)_
+- [Vincent Arel-Bundock](https://arelbundock.com/index.html), professeur, Université de Montréal
+- [David Armstrong](https://politicalscience.uwo.ca/people/faculty/full-time-faculty/dave-armstrong.html), professeur, Université Western
+- [Sophie Borwein](https://politics.ubc.ca/profile/sophie-borwein/), professeure adjointe, Université de la Colombie-Britannique
+- [Vince Hopkins](https://www.vincehopkins.com/), professeur adjoint, Université de la Colombie-Britannique
+- [Eline de Rooij](https://www.sfu.ca/politics/people/profiles/ead2.html), professeure, Université Simon Fraser
+- [Sule Yaylaci](https://www.suleyaylaci.com/), professeure adjointe, Université du Nouveau-Brunswick
 
 Consultez la page [Meetings](meetings/) pour les rencontres à venir et passées, et la page [Awards](awards/) pour nos prix.

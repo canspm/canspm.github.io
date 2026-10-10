@@ -50,7 +50,7 @@ _(Ajouter les dates, la date limite de l'appel de communications et les modalit�
 
 ### Assemblée générale annuelle
 
-L'assemblée générale annuelle (AGA), la réunion d'affaires des membres, se tient dans le cadre de MapleMeth. L'ordre du jour comprend le rapport annuel de la présidence, le rapport financier du secrétariat-trésorerie, les résultats des élections au comité exécutif et le lieu de la prochaine rencontre annuelle. Tous les membres en règle ont le droit de vote.
+L'assemblée générale annuelle (AGA), la réunion d'affaires des membres, se tient dans le cadre de MapleMeth.
 
 ### Rencontres précédentes
 

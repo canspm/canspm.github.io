@@ -44,13 +44,13 @@ This award recognizes a scholar who has made a sustained and profound impact on 
 
 ## Version française {#francais}
 
-Afin de promouvoir l'excellence en méthodologie politique et de reconnaître des travaux exceptionnels, la Société décerne des prix, habituellement chaque année. Au besoin, le conseil d'administration nomme un comité des prix chargé d'examiner les candidatures et de choisir les lauréats. Les prix sont remis lors de la rencontre annuelle.
+Afin de promouvoir l'excellence en méthodologie politique et de reconnaître des travaux exceptionnels, la Société décerne des prix. Au besoin, le conseil d'administration nomme un comité des prix chargé d'examiner les candidatures et de choisir les lauréats. Les prix sont remis lors de la rencontre annuelle.
 
-Le comité des prix est présidé par David Armstrong (Université Western).
+Le comité des prix est actuellement présidé par David Armstrong (Université Western).
 
 ### Prix du meilleur article étudiant (cycles supérieurs)
 
-Ce prix souligne une recherche exceptionnelle en méthodologie politique réalisée par une étudiante ou un étudiant des cycles supérieurs. Un prix est habituellement décerné chaque année.
+Ce prix souligne une recherche exceptionnelle en méthodologie politique réalisée par une étudiante ou un étudiant des cycles supérieurs.
 
 **Admissibilité :** L'article doit avoir été rédigé par une personne inscrite à un programme d'études supérieures (ou diplômée depuis moins de douze mois). Il doit avoir été présenté à la rencontre annuelle de la Société, ou publié ou accepté pour publication au cours de l'année civile précédente. Les articles rédigés en collaboration sont admissibles si tous les auteurs étaient aux études supérieures au moment de la rédaction.
 
@@ -58,9 +58,9 @@ Ce prix souligne une recherche exceptionnelle en méthodologie politique réalis
 
 **Comment soumettre :** _(Ajouter la date limite et les modalités.)_
 
-#### Lauréats précédents
+#### Lauréats
 
-- _(Année)_ — _(Nom)_, _(Établissement)_, « _(Titre de l'article)_ »
+- _2027_ — _(À déterminer)_, _(À déterminer)_
 
 ### Prix de carrière pour la contribution à la méthodologie politique canadienne
 
@@ -72,6 +72,6 @@ Ce prix rend hommage à une chercheuse ou un chercheur dont l'apport à la méth
 
 **Comment soumettre une candidature :** _(Ajouter la date limite et les modalités.)_
 
-#### Lauréats précédents
+#### Lauréats
 
-- _(Année)_ — _(Nom)_, _(Établissement)_
+- _2027_ — _(À déterminer)_, _(À déterminer)_
