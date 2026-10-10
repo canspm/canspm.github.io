@@ -33,6 +33,14 @@ header p { color: $navy; }
   height: auto;
 }
 
+/* Wide logo at the top of the main column (used on the Meetings page) */
+.page-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1em 0;
+}
+
 .site-nav ul {
   list-style: none;
   padding: 0;
