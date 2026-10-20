@@ -13,5 +13,4 @@ hide_logo: true
 
 _(Page under construction. Details to be added.)_
 
-# Version française {#francais}
-
+## Version française {#francais}
