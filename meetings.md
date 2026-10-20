@@ -19,7 +19,7 @@ Each year, a Program Committee chaired by the local host organizer issues the Ca
 
 ## Upcoming Meeting
 
-**MapleMeth 2027** will be hosted by the University of British Columbia in Vancouver, BC. [Go to the MapleMeth 2027 page]({{ "/meetings/2027/" | relative_url }})
+**MapleMeth 2027** will be hosted by the University of British Columbia in Vancouver, BC. [Go to the MapleMeth 2027 page]({{ "/meetings/2027/maplemeth_2027.md" | relative_url }})
 
 ## Annual General Meeting
 
@@ -45,7 +45,7 @@ Chaque année, un comité de programme présidé par l'organisateur local lance 
 
 ### Prochaine rencontre
 
-**MapleMeth 2027** sera accueillie par l'Université de la Colombie-Britannique, à Vancouver (C.-B.). [Page de MapleMeth 2027]({{ "/meetings/2027/" | relative_url }})
+**MapleMeth 2027** sera accueillie par l'Université de la Colombie-Britannique, à Vancouver (C.-B.). [Page de MapleMeth 2027]({{ "/meetings/2027/maplemeth_2027.md" | relative_url }})
 
 ### Assemblée générale annuelle
 
