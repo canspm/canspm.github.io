@@ -19,7 +19,7 @@ Each year, a Program Committee chaired by the local host organizer issues the Ca
 
 ## Upcoming Meeting
 
-**MapleMeth 2027** will be hosted by the University of British Columbia in Vancouver, BC. [Go to the MapleMeth 2027 page]({{ "/meetings/2027/" | relative_url }})
+**MapleMeth 2027** will be hosted by the University of British Columbia in Vancouver, BC. [Go to the MapleMeth 2027 page](https://www.sfu.ca/people/mpickup/maplemeth2027.html)
 
 ## Annual General Meeting
 
